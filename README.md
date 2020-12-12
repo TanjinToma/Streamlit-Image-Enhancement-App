@@ -1,4 +1,4 @@
-# Stremlit-Image-Enhancement-App
+# Streamlit-Image-Enhancement-App
 This is a python-based GUI for Microscopy image enhancement developed in the [streamlit framework](https://www.streamlit.io/), which is 
 an open-source app framework for Machine Learning and Data Science. The app contains two different algorithms for microscopy image enhancement-(1) CAEFI [1] enhancement algorithm 
 for the enhancement of images with filamentous structures (e.g., Neurons), (2) VBET [2] algorithm to enhance images with joint Blob-and-Vessel like 
